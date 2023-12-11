@@ -4,6 +4,14 @@ A collection of experiments in editing the Doom palette. Feel free to use for yo
 
 # Previews
 
+## Aether
+
+![playpal](/aether/playpal.png)
+![preview1](/aether/preview1.png)
+![preview2](/aether/preview2.png)
+![preview3](/aether/preview3.png)
+![preview4](/aether/preview4.png)
+
 ## Ansible
 
 ![playpal](/ansible/playpal.png)
