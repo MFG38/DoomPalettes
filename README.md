@@ -60,6 +60,14 @@ A collection of experiments in editing the Doom palette. Feel free to use for yo
 ![preview3](/nocturne/preview3.png)
 ![preview4](/nocturne/preview4.png)
 
+## Rorschach
+
+![playpal](/rorschach/playpal.png)
+![preview1](/rorschach/preview1.png)
+![preview2](/rorschach/preview2.png)
+![preview3](/rorschach/preview3.png)
+![preview4](/rorschach/preview4.png)
+
 ## Strength
 
 ![playpal](/strength/playpal.png)
