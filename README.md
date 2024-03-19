@@ -60,6 +60,14 @@ A collection of experiments in editing the Doom palette. Feel free to use for yo
 ![preview3](/nocturne/preview3.png)
 ![preview4](/nocturne/preview4.png)
 
+## Old York
+
+![playpal](/oldyork/playpal.png)
+![preview1](/oldyork/preview1.png)
+![preview2](/oldyork/preview2.png)
+![preview3](/oldyork/preview3.png)
+![preview4](/oldyork/preview4.png)
+
 ## Rorschach
 
 ![playpal](/rorschach/playpal.png)
