@@ -36,6 +36,14 @@ A collection of experiments in editing the Doom palette. Feel free to use for yo
 ![preview3](/coldwar/preview3.png)
 ![preview4](/coldwar/preview4.png)
 
+## CWPal
+
+![playpal](/cwpal/playpal.png)
+![preview1](/cwpal/preview1.png)
+![preview2](/cwpal/preview2.png)
+![preview3](/cwpal/preview3.png)
+![preview4](/cwpal/preview4.png)
+
 ## Depression
 
 ![playpal](/depression/playpal.png)
